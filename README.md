@@ -1,7 +1,5 @@
-# NTU-OS-2022
+# Nachos project
 NTU-EE-Operating System
-
-## Nachos project
-* Project1
-* Project2
-* Project3
+* Project1: Thread management
+* Project2: System Call & CPU Scheduling
+* Project3: Memory Management
